@@ -1,0 +1,15 @@
+---
+title: "Documentation"
+author: "Ryan Estrellado"
+date: "5/24/2020"
+output: html_document
+---
+
+I copied and pasted the villager ranking from this website on May 24, 2020
+
+https://nook.market/categories/257-villagers?sort=num_wishers-desc
+
+The raw data is in a file called `ac_vil_ranking.txt` 
+
+name: the villager's name 
+wish_score: The rank of each villager by most wished, in reverse. Raymond is the most wished for, so he has the highest wish_score, 391
