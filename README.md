@@ -16,4 +16,4 @@ This repository has cleaning scripts and analysis using data from *Animal Crossi
 ## Processed data 
 
 **vil_ranks.csv**: Each row in this dataset is a unique villager in *Animal Crossing: New Horizons*. There are 391 villagers total. The dataset has all the variables documented on [Kaggle](https://www.kaggle.com/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset), plus a new variabled called `wish_score`. Each villager has a unique `wish_score` that ranges from 1 to 391. The higher the `wish_score`, the more the villager is wished for on [the Nook Market website](https://nook.market/categories/257-villagers?sort=num_wishers-desc
-). For example, [Raymond](https://animalcrossing.fandom.com/wiki/Raymond), the most wished for villager as of May 24, 2020, has the highest possible wish score at 381. 
+). For example, [Raymond](https://animalcrossing.fandom.com/wiki/Raymond), the most wished for villager as of May 24, 2020, has the highest possible wish score at 391. 
