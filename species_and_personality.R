@@ -3,6 +3,7 @@ library(tidyverse)
 library(here)
 library(kableExtra)
 
+
 ## ----load data----------------------------------------------------------------------
 villagers <- read_csv(here::here("output", "vil_ranks.csv"))
 
@@ -94,7 +95,6 @@ villagers %>%
 
 
 # models ------------------------------------------------------------------
-
 # Personality as a predictor
 summary(
   lm(wish_score ~ personality, data = villagers)
