@@ -11,7 +11,7 @@ This repository has cleaning scripts and analysis using data from *Animal Crossi
 
 ## Cleaning scripts
 
-*clean_vil_rankings.R*: This script prepares the villager data for analysis and writes the dataset to a .csv in the "output" folder. You don't need to run this everytime. It's just here for documentation. 
+**clean_vil_rankings.R**: This script prepares the villager data for analysis and writes the dataset to a .csv in the "output" folder. You don't need to run this everytime. It's just here for documentation. 
 
 ## Processed data 
 
